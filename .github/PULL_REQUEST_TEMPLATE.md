@@ -38,10 +38,6 @@ Any special considerations for deployment? Consider both:
 
 - [ ] I have written a test plan and validated it for this PR
 
-### If you made changes to documentation:
-
-- [ ] Doc linting (`make docs-lint`) passed locally
-
 ### If you added or updated a code dependency:
 
 Choose one of the following:
